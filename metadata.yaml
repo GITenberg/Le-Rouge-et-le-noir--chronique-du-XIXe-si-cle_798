@@ -1,5 +1,8 @@
 _repo: Le-Rouge-et-le-noir--chronique-du-XIXe-si-cle_798
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stendhal
@@ -24,6 +27,8 @@ description: "Le Rouge et le Noir (French pronunciation: ​[lə ʁuʒ e lə nwa
   \ as Red and Black, Scarlet and Black, and The Red and the Black, without the sub-title.\n\
   The title refers to the tension between the clerical (black) and secular (red) interests\
   \ of the protagonist, which is a matter of some debate.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/798#Le-Rouge-et-le-noir--chronique-du-XIXe-si-cle
 gutenberg_bookshelf:
 - FR Littérature
 - Best Books Ever Listings
